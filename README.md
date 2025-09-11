@@ -6,15 +6,15 @@
 
 ### Hardware
 
-<li>**GPU**: Apple M4 Chip (Apple Silicon)</li>
-<li>**MPS Support**: Available (Metal Performance Shaders)</li>
-<li>**Acceleration**: GPU-accelerated deep learning ready</li>
+<li>GPU: Apple M4 Chip (Apple Silicon)</li>
+<li>MPS Support: Available (Metal Performance Shaders)</li>
+<li>Acceleration: GPU-accelerated deep learning ready</li>
 
 ### Software Stack
 
-<li>**Python**: 3.12.11</li>
-<li>**PyTorch**: 2.8.0 (MPS-enabled)</li>
-<li>**Jupyter Notebook**: Configured and operational</li>
+<li>Python: 3.12.11</li>
+<li>PyTorch: 2.8.0 (MPS-enabled)</li>
+<li>Jupyter Notebook: Configured and operational</li>
 
 ### Environment Status
 
