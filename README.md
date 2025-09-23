@@ -10,6 +10,8 @@
 <li>MPS Support: Available (Metal Performance Shaders)</li>
 <li>Acceleration: GPU-accelerated deep learning ready</li>
 
+
+
 ### Software Stack
 
 <li>Python: 3.12.11</li>
@@ -18,10 +20,10 @@
 
 ### Environment Status
 
-<li>✅ PyTorch successfully imported and functional</li>
-<li>✅ MPS acceleration available (Apple Silicon GPU)</li>
-<li>✅ Tensor operations working correctly</li>
-<li>✅ GPU-accelerated deep learning ready</li>
+<li>PyTorch successfully imported and functional</li>
+<li>MPS acceleration available (Apple Silicon GPU)</li>
+<li>Tensor operations working correctly</li>
+<li>GPU-accelerated deep learning ready</li>
 
 ### Quick Environment Check
 
