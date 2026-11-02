@@ -1,5 +1,5 @@
 # AI_lab
-<li>Dong-Seon Song 2023078041</li>
+<li>Dong-Seon Song</li>
 <li>2025-2 Artificial intelligence</li>
 
 ## Development Environment
